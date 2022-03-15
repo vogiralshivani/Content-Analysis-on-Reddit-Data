@@ -1,7 +1,4 @@
 # ASSESSING EMPLOYMENT STABILITY IN WOMEN AFTER MATERNITY LEAVE: CONTENT ANALYSIS ON REDDIT POSTS 
-### (403 words)
-### Shivani Vogiral
-### Spring 2022
 
 #### Research Question
 What kind of career repercussions have women faced after having gone into maternity leave? What is the general feeling of women in the corporate world towards taking maternity leaves to nurture their children?
